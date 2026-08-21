@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/AshishRaj2212/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/AshishRaj2212/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/AshishRaj2212/DSA/tree/master/1934-confirmation-rate) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
