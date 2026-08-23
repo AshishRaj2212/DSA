@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,10 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AshishRaj2212/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/AshishRaj2212/DSA/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshishRaj2212/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AshishRaj2212/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/AshishRaj2212/DSA/tree/master/1922-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
