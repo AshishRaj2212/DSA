@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishRaj2212/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishRaj2212/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
