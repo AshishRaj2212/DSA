@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AshishRaj2212/DSA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshishRaj2212/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AshishRaj2212/DSA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
