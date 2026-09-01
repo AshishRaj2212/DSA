@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/AshishRaj2212/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshishRaj2212/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshishRaj2212/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AshishRaj2212/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
