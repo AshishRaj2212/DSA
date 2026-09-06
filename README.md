@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshishRaj2212/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/AshishRaj2212/DSA/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshishRaj2212/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/AshishRaj2212/DSA/tree/master/0115-distinct-subsequences) |
 ## Backtracking
 |  |
 | ------- |
