@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AshishRaj2212/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshishRaj2212/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshishRaj2212/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AshishRaj2212/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AshishRaj2212/DSA/tree/master/0051-n-queens) |
 ## Depth-First Search
 |  |
@@ -127,10 +131,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/AshishRaj2212/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AshishRaj2212/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
