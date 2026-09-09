@@ -3,20 +3,12 @@ public:
     long long countCommas(long long n) {
         long long result = 0;
         long long lower = 1000;
-        long long comma = 1;
+
         if(n < 1000) return 0;
         while(lower <= n){
-            long long upper = lower * 1000 - 1;
-            if(upper > n) upper = n;
-
-            long long countOfNumbers = upper - lower + 1;
-            result += countOfNumbers*comma;
-
+            result += (n-lower+1);
             lower = lower*1000;
-            comma++;
         }
         return result;
-        
-
     }
 };
