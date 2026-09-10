@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishRaj2212/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshishRaj2212/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshishRaj2212/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AshishRaj2212/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/AshishRaj2212/DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshishRaj2212/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/AshishRaj2212/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AshishRaj2212/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AshishRaj2212/DSA/tree/master/0115-distinct-subsequences) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -144,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
