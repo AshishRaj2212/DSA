@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshishRaj2212/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshishRaj2212/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AshishRaj2212/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/AshishRaj2212/DSA/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
