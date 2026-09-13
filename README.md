@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AshishRaj2212/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
+| [0835-image-overlap](https://github.com/AshishRaj2212/DSA/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishRaj2212/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AshishRaj2212/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/AshishRaj2212/DSA/tree/master/0835-image-overlap) |
 ## Prefix Sum
 |  |
 | ------- |
