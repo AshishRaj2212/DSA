@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishRaj2212/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AshishRaj2212/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/AshishRaj2212/DSA/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshishRaj2212/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AshishRaj2212/DSA/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Algorithm X
 |  |
