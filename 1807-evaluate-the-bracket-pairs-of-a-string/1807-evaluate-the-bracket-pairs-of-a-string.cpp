@@ -10,17 +10,14 @@ public:
         int i = 0;
 
         while(i<n){
-            if(isalpha(s[i])){
-                result.push_back(s[i]);
+            if(s[i] == '('){
+                int j = s.find(")", i+1);
+                string temp = s.substr(i+1, j-i-1);
+                result += mp.count(temp) ? mp[temp] : "?";
+                i = j;
             }
             else{
-                i++;
-                string temp = "";
-                while(s[i] != ')' && i<n){
-                    temp.push_back(s[i]);
-                    i++;
-                }
-                result += mp.count(temp) ? mp[temp] : "?";
+                result.push_back(s[i]);
             }
             i++;
         }
