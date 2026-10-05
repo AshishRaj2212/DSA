@@ -3,23 +3,18 @@ public:
     int scoreOfParentheses(string s) {
         int n = s.length();
 
-        stack<int> st;
-
         int score = 0;
+        int depth = 0;
 
         for(int i = 0; i<n; i++){
             if(s[i] == '('){
-                st.push(score);
-                score = 0;
+                depth++;
             }
             else{
-                if(s[i-1] == '('){ //simple case h bhai, sirf () yahi h. therefore, +1 point
-                    score = st.top() + 1;
+                depth--;
+                if(s[i-1] == '('){
+                    score += (1 << depth); //2 ka power depth likhne ka way
                 }
-                else{ // (()) ye wala case h
-                    score = st.top() + (2*score);
-                }
-                st.pop();
             }
         }
         return score;  
