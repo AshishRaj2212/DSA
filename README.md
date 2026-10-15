@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshishRaj2212/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AshishRaj2212/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AshishRaj2212/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
