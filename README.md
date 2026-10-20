@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AshishRaj2212/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/AshishRaj2212/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0835-image-overlap](https://github.com/AshishRaj2212/DSA/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshishRaj2212/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshishRaj2212/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AshishRaj2212/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AshishRaj2212/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshishRaj2212/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AshishRaj2212/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshishRaj2212/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AshishRaj2212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -251,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AshishRaj2212/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
