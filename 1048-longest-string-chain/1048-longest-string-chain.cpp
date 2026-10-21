@@ -20,29 +20,22 @@ public:
         }
         return i == prev.length();
     }
-    int solve(int idx, int prev, vector<string>& words){
-        if(idx >= n) return 0;
-
-        if(prev != -1 && t[prev][idx] != -1)
-            return t[prev][idx];
-
-        int take = 0;
-        if(prev == -1 || validPredecessor(words[prev], words[idx])){
-            take = 1 + solve(idx+1, idx, words);
-        }
-        int skip = solve(idx+1, prev, words);
-
-        if(prev != -1)
-            t[prev][idx] = max(take, skip);
-
-        return max(take, skip);
-    }
 
     int longestStrChain(vector<string>& words) {
-        memset(t, -1, sizeof(t));
         n = words.size();
         sort(words.begin(), words.end(), myFunction);
 
-        return solve(0, -1, words);
+        vector<int> t(n, 1);
+        int maxLen = 1;
+
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<i; j++){
+                if(validPredecessor(words[j], words[i])){
+                    t[i] = max(t[i], t[j]+1);
+                    maxLen = max(maxLen, t[i]);
+                }
+            }
+        }
+        return maxLen;
     }
 };
