@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AshishRaj2212/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshishRaj2212/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AshishRaj2212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Stack
 |  |
 | ------- |
@@ -255,10 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
