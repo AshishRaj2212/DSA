@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AshishRaj2212/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AshishRaj2212/DSA/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/AshishRaj2212/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AshishRaj2212/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0835-image-overlap](https://github.com/AshishRaj2212/DSA/tree/master/0835-image-overlap) |
 | [1048-longest-string-chain](https://github.com/AshishRaj2212/DSA/tree/master/1048-longest-string-chain) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AshishRaj2212/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/AshishRaj2212/DSA/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AshishRaj2212/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/AshishRaj2212/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AshishRaj2212/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/AshishRaj2212/DSA/tree/master/1922-count-good-numbers) |
