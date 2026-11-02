@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshishRaj2212/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshishRaj2212/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshishRaj2212/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AshishRaj2212/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshishRaj2212/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AshishRaj2212/DSA/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/AshishRaj2212/DSA/tree/master/2409-count-days-spent-together) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshishRaj2212/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshishRaj2212/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/AshishRaj2212/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AshishRaj2212/DSA/tree/master/3871-count-commas-in-range-ii) |
