@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0835-image-overlap](https://github.com/AshishRaj2212/DSA/tree/master/0835-image-overlap) |
 | [1048-longest-string-chain](https://github.com/AshishRaj2212/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AshishRaj2212/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AshishRaj2212/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshishRaj2212/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AshishRaj2212/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/AshishRaj2212/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AshishRaj2212/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshishRaj2212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AshishRaj2212/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Algorithm X
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshishRaj2212/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AshishRaj2212/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/AshishRaj2212/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AshishRaj2212/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AshishRaj2212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AshishRaj2212/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AshishRaj2212/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AshishRaj2212/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AshishRaj2212/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshishRaj2212/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AshishRaj2212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/AshishRaj2212/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
